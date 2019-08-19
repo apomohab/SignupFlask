@@ -1,0 +1,15 @@
+Click==7.0
+Flask==1.1.1
+gunicorn==19.9.0
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+Werkzeug==0.15.5
+flask-bootstrap
+flask-wtf
+SQLAlchemy==0.7.9
+Flask-SQLAlchemy==0.16
+Flask-SQLAlchemy==0.16
+Flask-Login==0.1.3
+urllib3==1.22
+parsel==1.1.0
